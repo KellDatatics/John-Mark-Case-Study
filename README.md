@@ -10,6 +10,11 @@ Welcome to the John Mark Case Study repository! This project is part of my Googl
 The primary objective of this case study is to:
 Analyze sales data for customer insights to identify sales trends, top products and increase revenue.
 
+## Key Insight:  Customer Activity on Website
+
+This Table shows activity on the website.  We learned we had visitors but not enough conversions to buyers.
+![Table1](https://github.com/KellDatatics/John-Mark-Case-Study/blob/main/Data%20Visuals/Customer%20Activity%20on%20Site.png?raw=true)
+
 ## Dataset
 
 The dataset used in this analysis includes:
